@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemilus=self.webpackChunkemilus||[]).push([[1],{74001:function(e,n,u){u.r(n),u.d(n,{CatalogComboDashboard:function(){return t}});u(72791);var r=u(80184),t=function(){return(0,r.jsx)(r.Fragment,{children:"Combo"})};n.default=t}}]);
+//# sourceMappingURL=1.a93f4fe9.chunk.js.map

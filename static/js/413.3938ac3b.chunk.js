@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemilus=self.webpackChunkemilus||[]).push([[413],{16413:function(u,e,n){n.r(e),n.d(e,{ClientsGroupDashboard:function(){return s}});n(72791);var r=n(80184),s=function(){return(0,r.jsx)(r.Fragment,{children:"Group"})};e.default=s}}]);
+//# sourceMappingURL=413.3938ac3b.chunk.js.map

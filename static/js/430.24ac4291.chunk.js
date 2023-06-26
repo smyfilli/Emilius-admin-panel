@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemilus=self.webpackChunkemilus||[]).push([[430],{88430:function(e,s,n){n.r(s),n.d(s,{OfflinePointsAddressesDashboard:function(){return u}});n(72791);var r=n(80184),u=function(){return(0,r.jsx)(r.Fragment,{children:"Addresses"})};s.default=u}}]);
+//# sourceMappingURL=430.24ac4291.chunk.js.map

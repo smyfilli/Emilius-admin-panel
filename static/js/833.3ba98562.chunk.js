@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemilus=self.webpackChunkemilus||[]).push([[833],{11833:function(e,n,s){s.r(n),s.d(n,{OfflinePointsGeofencesDashboard:function(){return f}});s(72791);var u=s(80184),f=function(){return(0,u.jsx)(u.Fragment,{children:"Geofences"})};n.default=f}}]);
+//# sourceMappingURL=833.3ba98562.chunk.js.map
