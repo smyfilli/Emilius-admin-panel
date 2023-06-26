@@ -5,7 +5,7 @@ import { UserOutlined } from '@ant-design/icons';
 import { ROW_GUTTER } from 'constants/ThemeConstant';
 import Flex from 'components/shared-components/Flex'
 import { useParams } from 'react-router-dom';
-//import { flushSync } from 'react-dom';
+
 
 function EditProfileWrapper(){
 	const userId = useParams().id;
@@ -22,30 +22,13 @@ function EditProfileWrapper(){
   		});
 	},[userId])	
 
-	//console.log(userData)
+
 
 	return <EditProfile userData={userData} />;
 }
 
 class EditProfile extends Component {
-	// componentDidMount() {
-	// 	this.state.name = "sdfg"
-	// }
-	// constructor(){
-	// 	this.state={
-	// 		avatarUrl: '/img/avatars/thumb-6.jpg',
-	// 		name: this.props.userData,
-	// 		userName: props,
-	// 		phoneNumber: '+44 (1532) 135 7921',
-	// 		email: 'charlie.howard@themenate.com',
-	// 		website: '',
-	// 		address: '',
-	// 		city: '',
-	// 		postcode: ''
-	// 	}
-	// 	console.log(props)
-	//}
-
+	
 	avatarEndpoint = 'https://www.mocky.io/v2/5cc8019d300000980a055e76'
 
 	state= {
@@ -136,7 +119,6 @@ console.log(this.props.userData)
 								'name': name,
 								'email': email,
 								'username': userName,
-								//'dateOfBirth': dateOfBirth,
 								'phoneNumber': phoneNumber,
 								'website': website,
 								'address': address,
